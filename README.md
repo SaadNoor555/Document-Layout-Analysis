@@ -5,11 +5,6 @@ This repo contains our (Team: Krusty Krab) codes for DLS2 Document-Layout-Analys
 <b>Document-Layout-Analysis <b><br>
 │   README.md   <br>
 │<br>
-└──Data Manipulation & EDA <br>
-│   &emsp;│   binarization.py <br>
-│   &emsp;│   checkDataset.py <br>
-│   &emsp;│   . . .<br>
-│   <br>
 └──Detectron2 <br>
 │    &emsp;│   dit-eval.ipynb <br>
 │    &emsp;│   dit-sub-template.ipynb <br>
@@ -21,7 +16,6 @@ This repo contains our (Team: Krusty Krab) codes for DLS2 Document-Layout-Analys
 │    &emsp;│   . . .
 
 
-* **Data Manipulation:** This folder contains all the scripts used to augment/seperating validation set/ check dataset integrity/ fix dataset issues.
 * **Detectron2:** This folder contains some of the Detectron2 scripts used for training various models/ evaluation/ inference.
 * **YOLO:** This folder contains all the training scripts used to train different YOLOv8 models.
 
