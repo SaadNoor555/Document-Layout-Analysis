@@ -29,5 +29,5 @@ with open("yolov8_aug_2.yaml", mode="w") as f:
 model = YOLO("yolov8m-seg.pt")
 model.train(data="yolov8_aug_2.yaml", epochs=50, device=[0], imgsz=672, \
             overlap_mask=True, mask_ratio=2, save_period=10, augment=True,\
-            copy_paste=0.1, mixup=0.1, mosaic=0.5, perspective=0.001, cos_lr=True, degrees=90
+            copy_paste=0.1, mixup=0.1, mosaic=0.5, perspective=0.001
             )
