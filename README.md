@@ -1,6 +1,10 @@
 # Document-Layout-Analysis
 
-This repo contains our (Team: Krusty Krab) codes for DLS2 Document-Layout-Analysis. The repository is structured into three folders:`<br>`
+This repo contains our (Team: Krusty Krab) codes for DLS2 Document-Layout-Analysis.<br>
+Huggingface demo: <a href="https://huggingface.co/spaces/qoobeeshy/yolo-document-layout-analysis">Document Layout Analysis </a><br>
+Solution paper: <a href="https://arxiv.org/abs/2309.00848"> A Post-processing Based Bengali Document Layout Analysis With YOLOv8</a><br>
+Presentation Slide: <a href="https://www.canva.com/design/DAFrLGganQ8/KFJzZNnj0Ibowk9WoJHyFQ/edit?utm_content=DAFrLGganQ8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> Bengali DLA: A YOLOv8 Based Approach</a><br>
+The repository is structured into three folders:<br>
 <br>
 <b>Document-Layout-Analysis <b><br>
 │   README.md   <br>
